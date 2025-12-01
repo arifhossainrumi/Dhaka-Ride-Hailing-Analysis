@@ -72,4 +72,4 @@ Dhaka-Ride-Hailing-Analysis/
 ## Author
 **Md. Arif Hossain Rumi**  
 Data Analyst | Python • SQL • Power BI  
-[LinkedIn](https://linkedin.com/arifhossainrumi)
+[LinkedIn](https://linkedin.com/in/arifhossainrumi)
