@@ -7,7 +7,7 @@
 
 An end-to-end data analytics project simulating and analyzing the ride-sharing ecosystem of Dhaka, Bangladesh. This project utilizes **Python** for synthetic data generation, **SQL** for strategic insights, and **Power BI** for executive visualization.
 
-![Dashboard Screenshot](Dashboard/dashboard_screenshot.png)
+![Dashboard Screenshot](Images/dashboard_screenshot.png)
 *(Executive Dashboard View)*
 
 ## 📌 Project Overview
@@ -19,9 +19,9 @@ Dhaka is known for its extreme traffic and unique commuting challenges. This pro
 ## 📄 Project Reports (PDF)
 I have prepared two detailed reports catering to different stakeholders:
 
-1.  **[📘 Strategic Business Case (For Managers)](Reports/Strategic_Business_Case.pdf)**
+1.  **[📘 Strategic Business Case (For Managers)](Reports/Market_Analysis/Strategic_Business_Case.pdf)**
     * *Focus:* Market gaps for new entrants, profitability analysis, and operational recommendations.
-2.  **[📙 Technical Analysis Report (For Data Teams)](Reports/Technical_Analysis_Report.pdf)**
+2.  **[📙 Technical Analysis Report (For Data Teams)](Reports/Technical_Analysis_Report/Technical_Analysis_Report.pdf)**
     * *Focus:* Data pipeline methodology, feature engineering logic, and SQL performance metrics.
 
 ## 🛠️ Tech Stack
