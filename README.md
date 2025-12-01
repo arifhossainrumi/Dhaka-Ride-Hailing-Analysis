@@ -35,15 +35,38 @@ I have prepared two detailed reports catering to different stakeholders:
 3.  **Moto Dominance:** Motorbikes maintain a **~48% market share**, proving that speed filters through traffic are valued more than comfort.
 4.  **Digital Shift:** Payment preference shifted from Cash (35% in 2021) to Mobile Money (43% in 2025).
 
-## 📂 Project Structure
-- `Data/`: Contains the synthetic CSV datasets (`rides` and `cancellations`).
-- `Scripts/`: Jupyter Notebook for data generation & SQL queries for analysis.
-- `Dashboard/`: Power BI `.pbix` file and high-res screenshots.
 
+## 📂 Project Structure
+
+```bash
+Dhaka-Ride-Hailing-Analysis/
+│
+├── Dataset/                   # Raw synthetic datasets
+│   ├── Dhaka Synthetic Ride-Hailing Analysis dataset.csv        # 15,000 Hyper-Realistic Trips (2021-2025)
+│
+├── Images/              # Visualization files
+│   ├── dashboard_screenshot.png     # High-res preview image
+│
+├── Jupyter Notebook/                # Code for data generation & analysis
+│   ├── Dhaka Synthetic Ride-Hailing Analysis.ipynb       # Python notebook for simulation logic
+│   
+│
+├── Power BI/              # Visualization files
+│   ├── Dhaka Ride-Hailing Dashboard.pdf    # Dashboard pdf view   
+│   └── Dhaka Ride-Hailing.pbix   # Power Bi file
+│
+├── Reports/                # Professional Documentation (PDF)
+│   ├── Strategic_Business_Case.pdf # For Business/Product Managers
+│   └── Technical_Analysis_Report.pdf # For Data Teams
+│
+│├── SQL Business Questions Analysis/              # Business Questions files
+│   └── Dhaka Ride-Hailing.sql                         # SQL scripts for KPI extraction
+
+```
 ## 🚀 How to Use
-1.  **Python:** Run the `data_generation.ipynb` to regenerate or modify the dataset logic.
-2.  **SQL:** Load the CSVs into any SQL database and run `analysis_queries.sql` to verify insights.
-3.  **Power BI:** Open `Dhaka_Ride_Hailing.pbix` to interact with the dashboard.
+1.  **Python:** Run the `Dhaka Synthetic Ride-Hailing Analysis.ipynb` to regenerate or modify the dataset logic.
+2.  **SQL:** Load the CSVs into any SQL database and run `Dhaka Ride-Hailing.sql` to verify insights.
+3.  **Power BI:** Open `Dhaka Ride-Hailing.pbix` to interact with the dashboard.
 
 ---
 ## Author
